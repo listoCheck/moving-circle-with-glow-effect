@@ -1,0 +1,4 @@
+﻿  cube.cpp
+C:\Users\Артём\source\repos\cube\cube\cube.cpp(15,44): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Артём\source\repos\cube\cube\cube.cpp(25,13): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  cube.vcxproj -> C:\Users\Артём\source\repos\cube\x64\Debug\cube.exe
